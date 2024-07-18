@@ -1,4 +1,5 @@
-## Hi there 👋
+# 😊 Welcome to jenbbang world! 😊
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/jenbbang?pet-id=1" width="1000" height="500"/>
